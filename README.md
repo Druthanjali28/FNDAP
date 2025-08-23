@@ -1,2 +1,19 @@
+# FNDAP Project
 
+The **FNDAP (Fake News Detection and Prevention)** project aims to detect and prevent the spread of misinformation using a combination of machine learning models and real-time data validation mechanisms.
 
+## 🔍 Project Objective
+
+To develop a system that can:
+- Detect fake news articles and content.
+- Provide confidence scores and explainable AI outputs.
+- Allow users to verify the authenticity of news before sharing.
+- Integrate APIs from reputable fact-checking organizations.
+
+## 🚀 Features
+
+- 🧠 Machine Learning Model for News Classification  
+- 📡 Real-time News Input and Analysis  
+- 🔎 Explainability Module for Prediction Interpretation  
+- 🧩 API Integration with Fact-Checking Sources  
+- 💬 Feedback Loop from Users  
